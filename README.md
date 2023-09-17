@@ -25,9 +25,9 @@ O desafio era preencher alguns trechos de código para reforçar o conhecimento 
 
 ## Créditos
 
- [DIO](https://www.dio.me/)
- [Repositório original](https://github.com/digitalinnovationone/trilha-net-poo-desafio)
- [Instrutor - Leonardo Buta](https://github.com/leonardo-buta)
+ [DIO](https://www.dio.me/)  
+ [Repositório original](https://github.com/digitalinnovationone/trilha-net-poo-desafio)  
+ [Instrutor - Leonardo Buta](https://github.com/leonardo-buta)  
 
 ## Autora
 
