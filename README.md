@@ -3,7 +3,7 @@
 ![Badge Concluido](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=red&style=for-the-badge)  ![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/DeBaFig/DIO-DesafioProjetoHospedagem) [![GitHub license](https://img.shields.io/github/license/DeBaFig/site-nick-projeto)](https://github.com/DeBaFig/site-nick-projeto/blob/main/LICENSE) 
+![GitHub last commit](https://img.shields.io/github/last-commit/DeBaFig/trilha-net-poo-desafio) [![GitHub license](https://img.shields.io/github/license/DeBaFig/site-nick-projeto)](https://github.com/DeBaFig/site-nick-projeto/blob/main/LICENSE) 
 
 <h1 align="center">Dasafio DIO - OOP</h1>
 
@@ -26,7 +26,7 @@ O desafio era preencher alguns trechos de código para reforçar o conhecimento 
 ## Créditos
 
  [DIO](https://www.dio.me/)
- [Repositório original](https://github.com/digitalinnovationone/trilha-net-explorando-desafio)
+ [Repositório original](https://github.com/digitalinnovationone/trilha-net-poo-desafio)
  [Instrutor - Leonardo Buta](https://github.com/leonardo-buta)
 
 ## Autora
