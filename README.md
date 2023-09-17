@@ -5,7 +5,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/DeBaFig/DIO-DesafioProjetoHospedagem) [![GitHub license](https://img.shields.io/github/license/DeBaFig/site-nick-projeto)](https://github.com/DeBaFig/site-nick-projeto/blob/main/LICENSE) 
 
-<h1 align="center">Dasafio DIO- Explorando</h1>
+<h1 align="center">Dasafio DIO - OOP</h1>
 
 <!--ts-->
    * [Sobre](#sobre)
